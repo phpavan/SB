@@ -11,7 +11,7 @@ public class Hello {
 
 	@GetMapping
   public String hello(){
-    return "Hello UBP-Team!|||!";
+    return "Hello - UBP Team!!";
   }
 
 }
